@@ -7,7 +7,8 @@
 
 
 #include <xc.h>
+#include "../header/slave.h"
 
 void main(void) {
-    return;
+    
 }
