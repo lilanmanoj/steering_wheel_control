@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "xc.h": "c",
+        "master.h": "c",
+        "slave.h": "c",
+        "builtins.h": "c",
+        "language_support.h": "c",
+        "xc8debug.h": "c",
+        "pic.h": "c",
+        "pic_chip_select.h": "c",
+        "htc.h": "c",
+        "pic18.h": "c"
+    }
+}
